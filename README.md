@@ -2,7 +2,8 @@
 ## GPT-2 Fine-tuned on The Original Series Episode Scripts
 
 TOS episode scripts from http://www.chakoteya.net/
-Fine-tuning/Generation/Pretrained GPT-2 via Huggingface's Transformers!
+
+Fine-tuning/Generation Code + Pretrained GPT-2 via Huggingface's Transformers!
 
 
 
