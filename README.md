@@ -3,7 +3,7 @@
 
 TOS episode scripts from http://www.chakoteya.net/
 
-Fine-tuning/Generation Code + Pretrained GPT-2 via Huggingface's Transformers!
+Fine-tuning/Generation Code + Pretrained GPT-2 via Huggingface's [Transformers]https://huggingface.co/transformers/ !
 
 
 
