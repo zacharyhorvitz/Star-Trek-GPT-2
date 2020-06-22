@@ -20,7 +20,7 @@ python fine_tune.py --eval_data_file dev.txt --train_data_file train.txt --model
 
 To generate text:
 ```
- python run_generation.py --model_type=gpt2 --model_name_or_path=<MODEL_PATH>
+ python run_trek.py --model_type=gpt2 --model_name_or_path=<MODEL_PATH>
 ```
 
 ## TODO:
