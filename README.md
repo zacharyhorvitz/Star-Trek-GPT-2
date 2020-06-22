@@ -23,5 +23,5 @@ To generate text:
 ```
 
 ## TODO:
--upload pretrained models
--host online demo
+- upload pretrained models
+- host online demo
