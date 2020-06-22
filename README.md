@@ -1,4 +1,4 @@
-# Star-Trek-GPT-2
+# Star Trek GPT-2
 ## GPT-2 Fine-tuned on The Original Series Episode Scripts
 
 TOS episode scripts from http://www.chakoteya.net/
